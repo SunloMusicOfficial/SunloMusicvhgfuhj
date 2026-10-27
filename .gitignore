@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+venv/
+*.session
+*.session-journal
+downloads/
+.cache/
+assets/fonts/*.ttf.tmp
+.DS_Store
